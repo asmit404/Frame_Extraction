@@ -7,6 +7,11 @@ This program extracts frames from a video file and saves them as images. The pro
 * Python 3.6.5
 * OpenCV 3.4.1
 
+## Install Dependencies
+```bash 
+pip install -r requirements.txt
+```
+
 ## Usage
 To run the program, simply run the following command in the terminal:
 ```
